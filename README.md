@@ -1,0 +1,2 @@
+# ANIMAL-SPECIES-IDENTIFICATION-SYSTEM-USING-IMAGE-RECOGNITION-AND-DEEP-LEARNING-MODELS
+Identifying animal species accurately is important for wildlife conservation, biodiversity research, veterinary services, and ecological monitoring. Traditional identification methods require expert knowledge and manual observation, making the process time- consuming and prone to human error. Variations in animal appearance, lighting condition
